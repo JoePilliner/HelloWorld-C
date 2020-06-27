@@ -4,5 +4,5 @@
 int main (void)
 {
     puts("Hello world!");
-    exit(EXIT_SUCCESS);
+    return EXIT_SUCCESS;
 }
